@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACMus</title>
+    <link>https://acmus-mir.github.io/authors/kehling/</link>
+    <description>Recent content on ACMus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://acmus-mir.github.io/authors/kehling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://acmus-mir.github.io/authors/kehling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmus-mir.github.io/authors/kehling/</guid>
+      <description>&lt;p&gt;Christian is a research scientist at Fraunhofer IDMT.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
