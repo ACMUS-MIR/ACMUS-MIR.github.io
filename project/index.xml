@@ -6,6 +6,7 @@
     <description>Recent content in Projects on ACMus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://acmus-mir.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,31 +14,37 @@
     <item>
       <title>Ensemble Size Classification</title>
       <link>https://acmus-mir.github.io/project/ensemblesize/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://acmus-mir.github.io/project/ensemblesize/</guid>
-      <description>&lt;p&gt;This project involved the accession, cataloging and digitization of several collections. It also involved cataloging of multiple collections already accessioned but not yet cataloged. I was responsible for identifying and collecting metadata relevant for audio collections. I communicated with the SIL Language and Culture Archive staff when metadata schemas in place were insufficient for audio collections. I identified and recommended changes to metadata profiles used at the time by the Language and Culture Archives. I consulted industry best practices and established quality control procedures related to the digitization of cassette tapes and reel to reel tapes. I served as project manager, with a volunteer workforce.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>Meter Extraction</title>
       <link>https://acmus-mir.github.io/project/meterextraction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://acmus-mir.github.io/project/meterextraction/</guid>
-      <description>&lt;p&gt;This project involved the accession, cataloging and digitization of several collections. It also involved cataloging of multiple collections already accessioned but not yet cataloged. I was responsible for identifying and collecting metadata relevant for audio collections. I communicated with the SIL Language and Culture Archive staff when metadata schemas in place were insufficient for audio collections. I identified and recommended changes to metadata profiles used at the time by the Language and Culture Archives. I consulted industry best practices and established quality control procedures related to the digitization of cassette tapes and reel to reel tapes. I served as project manager, with a volunteer workforce.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Scale Detection</title>
+      <link>https://acmus-mir.github.io/project/scale/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmus-mir.github.io/project/scale/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Speech music classification</title>
       <link>https://acmus-mir.github.io/project/speechmusic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://acmus-mir.github.io/project/speechmusic/</guid>
-      <description>&lt;p&gt;This project involved the accession, cataloging and digitization of several collections. It also involved cataloging of multiple collections already accessioned but not yet cataloged. I was responsible for identifying and collecting metadata relevant for audio collections. I communicated with the SIL Language and Culture Archive staff when metadata schemas in place were insufficient for audio collections. I identified and recommended changes to metadata profiles used at the time by the Language and Culture Archives. I consulted industry best practices and established quality control procedures related to the digitization of cassette tapes and reel to reel tapes. I served as project manager, with a volunteer workforce.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
