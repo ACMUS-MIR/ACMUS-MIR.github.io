@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo López Gil on ACMus</title>
+    <link>https://acmus-mir.github.io/authors/gustavo-l%C3%B3pez-gil/</link>
+    <description>Recent content in Gustavo López Gil on ACMus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 19:34:03 +0800</lastBuildDate>
+    
+	    <atom:link href="https://acmus-mir.github.io/authors/gustavo-l%C3%B3pez-gil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ensemble size classification in Colombian Andean string music recordings</title>
+      <link>https://acmus-mir.github.io/publication/cmmr19/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      
+      <guid>https://acmus-mir.github.io/publication/cmmr19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singing Voice, Speech, or Something in Between</title>
+      <link>https://acmus-mir.github.io/publication/dagstuhl19/</link>
+      <pubDate>Thu, 01 Aug 2019 19:28:09 +0800</pubDate>
+      
+      <guid>https://acmus-mir.github.io/publication/dagstuhl19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
