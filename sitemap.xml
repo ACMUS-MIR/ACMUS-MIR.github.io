@@ -26,6 +26,18 @@
   </url>
   
   <url>
+    <loc>https://acmus-mir.github.io/tags/colombian-music/</loc>
+    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/tags/ensemble-size-classification/</loc>
+    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://acmus-mir.github.io/publication/cmmr19/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
   </url>
@@ -61,6 +73,12 @@
   </url>
   
   <url>
+    <loc>https://acmus-mir.github.io/tags/</loc>
+    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://acmus-mir.github.io/publication_types/4/</loc>
     <lastmod>2019-08-01T19:28:09+08:00</lastmod>
     <priority>0</priority>
@@ -84,24 +102,15 @@
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/tags/computational-musicology/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <loc>https://acmus-mir.github.io/tags/speech-music-discrimination/</loc>
+    <lastmod>2019-08-01T19:28:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/project/ensemblesize/</loc>
+    <loc>https://acmus-mir.github.io/tags/computational-musicology/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/project/meterextraction/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/project/scale/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -116,12 +125,6 @@
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/tags/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acmus-mir.github.io/publication/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -131,7 +134,15 @@
   </url>
   
   <url>
+    <loc>https://acmus-mir.github.io/andes-music/</loc>
+  </url>
+  
+  <url>
     <loc>https://acmus-mir.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/bdg/</loc>
   </url>
   
   <url>
@@ -165,6 +176,18 @@
   <url>
     <loc>https://acmus-mir.github.io/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/project/ensemblesize/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/project/meterextraction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/project/scale/</loc>
   </url>
   
   <url>
