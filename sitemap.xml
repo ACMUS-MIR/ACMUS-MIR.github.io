@@ -3,6 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acmus-mir.github.io/publication_types/3/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/publication/embeddings20/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/christian-kehling/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/tags/ensemble-size-classification/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/estefan%C3%ADa-cano/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/michael-taenzer/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/publication_types/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/sascha-grollmisch/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/tags/speech-music-discrimination/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/tags/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://acmus-mir.github.io/publication_types/1/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
     <priority>0</priority>
@@ -14,25 +91,7 @@
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acmus-mir.github.io/tags/colombian-music/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/ensemble-size-classification/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -43,12 +102,6 @@
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/authors/estefan%C3%ADa-cano/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://acmus-mir.github.io/authors/fernando-mora-%C3%A1ngel/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
     <priority>0</priority>
@@ -56,24 +109,6 @@
   
   <url>
     <loc>https://acmus-mir.github.io/authors/gustavo-l%C3%B3pez-gil/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/publication_types/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/sascha-grollmisch/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -99,12 +134,6 @@
   <url>
     <loc>https://acmus-mir.github.io/publication/dagstuhl19/</loc>
     <lastmod>2019-08-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/speech-music-discrimination/</loc>
-    <lastmod>2019-08-01T19:28:09+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

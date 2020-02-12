@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Advancing Computational Musicology">
+  <meta name="description" content="In the context of deep learning, the availability of large amounts of training data can play a critical role in a model&#39;s performance. Transfer learning has shown to be a powerful method in which models are first pre-trained for a task where abundant data is available, and then fine-tuned for a separate task where only a limited amount of data exists. In the past years, several models for audio classification have been pre-trained in a supervised or self-supervised fashion to learn complex feature representations, so called embeddings. These embeddings can then be extracted from smaller datasets and used to train subsequent classifiers. In the field of audio event detection (AED) for example, classifiers using these features have achieved high accuracy without the need of additional domain knowledge. This paper evaluates three state-of-the-art embeddings on six audio classification tasks from the fields of music information retrieval and industrial sound analysis, and presents a detailed overview of their potential. The embeddings are systematically evaluated by analyzing the influence of classifier architecture, fusion methods for file-wise predictions, amount of training data, and trained domain on classification accuracy. To better understand the effect of pre-training, results are also compared with those obtained with models trained from scratch. On average, OpenL3 embeddings performed best with a linear SVM classifier and for a reduced number of training examples they outperform the initial baseline.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://acmus-mir.github.io/tags/ensemble-size-classification/">
+  <link rel="alternate" hreflang="en-us" href="https://acmus-mir.github.io/publication/embeddings20/">
 
   
 
@@ -101,15 +101,12 @@
   
 
   
-  <link rel="alternate" href="/tags/ensemble-size-classification/index.xml" type="application/rss+xml" title="ACMus">
-  <link rel="feed" href="/tags/ensemble-size-classification/index.xml" type="application/rss+xml" title="ACMus">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://acmus-mir.github.io/tags/ensemble-size-classification/">
+  <link rel="canonical" href="https://acmus-mir.github.io/publication/embeddings20/">
 
   
   
@@ -121,12 +118,14 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="ACMus">
-  <meta property="og:url" content="https://acmus-mir.github.io/tags/ensemble-size-classification/">
-  <meta property="og:title" content="Ensemble Size classification | ACMus">
-  <meta property="og:description" content="Advancing Computational Musicology"><meta property="og:image" content="https://acmus-mir.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://acmus-mir.github.io/publication/embeddings20/">
+  <meta property="og:title" content="Analyzing the potential of pre-trained embeddings for audio classification tasks | ACMus">
+  <meta property="og:description" content="In the context of deep learning, the availability of large amounts of training data can play a critical role in a model&#39;s performance. Transfer learning has shown to be a powerful method in which models are first pre-trained for a task where abundant data is available, and then fine-tuned for a separate task where only a limited amount of data exists. In the past years, several models for audio classification have been pre-trained in a supervised or self-supervised fashion to learn complex feature representations, so called embeddings. These embeddings can then be extracted from smaller datasets and used to train subsequent classifiers. In the field of audio event detection (AED) for example, classifiers using these features have achieved high accuracy without the need of additional domain knowledge. This paper evaluates three state-of-the-art embeddings on six audio classification tasks from the fields of music information retrieval and industrial sound analysis, and presents a detailed overview of their potential. The embeddings are systematically evaluated by analyzing the influence of classifier architecture, fusion methods for file-wise predictions, amount of training data, and trained domain on classification accuracy. To better understand the effect of pre-training, results are also compared with those obtained with models trained from scratch. On average, OpenL3 embeddings performed best with a linear SVM classifier and for a reduced number of training examples they outperform the initial baseline."><meta property="og:image" content="https://acmus-mir.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2020-01-03T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-08-01T19:28:09&#43;08:00">
+  
+  <meta property="article:modified_time" content="2020-01-03T00:00:00&#43;00:00">
   
 
   
@@ -138,7 +137,7 @@
 
 
 
-  <title>Ensemble Size classification | ACMus</title>
+  <title>Analyzing the potential of pre-trained embeddings for audio classification tasks | ACMus</title>
 
 </head>
 
@@ -384,63 +383,244 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
   
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Analyzing the potential of pre-trained embeddings for audio classification tasks</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2020-01-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-01-03 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/sascha-grollmisch/">Sascha Grollmisch</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Estefanía Cano</span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/christian-kehling/">Christian Kehling</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/michael-taenzer/">Michael Taenzer</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>January 2020</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Analyzing%20the%20potential%20of%20pre-trained%20embeddings%20for%20audio%20classification%20tasks&amp;url=https%3a%2f%2facmus-mir.github.io%2fpublication%2fembeddings20%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2facmus-mir.github.io%2fpublication%2fembeddings20%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2facmus-mir.github.io%2fpublication%2fembeddings20%2f&amp;title=Analyzing%20the%20potential%20of%20pre-trained%20embeddings%20for%20audio%20classification%20tasks"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2facmus-mir.github.io%2fpublication%2fembeddings20%2f&amp;title=Analyzing%20the%20potential%20of%20pre-trained%20embeddings%20for%20audio%20classification%20tasks"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Analyzing%20the%20potential%20of%20pre-trained%20embeddings%20for%20audio%20classification%20tasks&amp;body=https%3a%2f%2facmus-mir.github.io%2fpublication%2fembeddings20%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">In the context of deep learning, the availability of large amounts of training data can play a critical role in a model&rsquo;s performance. Transfer learning has shown to be a powerful method in which models are first pre-trained for a task where abundant data is available, and then fine-tuned for a separate task where only a limited amount of data exists. In the past years, several models for audio classification have been pre-trained in a supervised or self-supervised fashion to learn complex feature representations, so called embeddings. These embeddings can then be extracted from smaller datasets and used to train subsequent classifiers. In the field of audio event detection (AED) for example, classifiers using these features have achieved high accuracy without the need of additional domain knowledge. This paper evaluates three state-of-the-art embeddings on six audio classification tasks from the fields of music information retrieval and industrial sound analysis, and presents a detailed overview of their potential. The embeddings are systematically evaluated by analyzing the influence of classifier architecture, fusion methods for file-wise predictions, amount of training data, and trained domain on classification accuracy. To better understand the effect of pre-training, results are also compared with those obtained with models trained from scratch. On average, OpenL3 embeddings performed best with a linear SVM classifier and for a reduced number of training examples they outperform the initial baseline.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In review</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/deep-learning/">Deep learning</a>
+  
+  <a class="badge badge-light" href="/tags/speech-music-discrimination/">Speech-music discrimination</a>
+  
+  <a class="badge badge-light" href="/tags/ensemble-size-classification/">Ensemble Size classification</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Ensemble Size classification</h1>
-
   
 
+
+
+
+
   
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/sascha-grollmisch/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
 </div>
 
 
-
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/publication/embeddings20/">Analyzing the potential of pre-trained embeddings for audio classification tasks</a></h2>
-    <div class="article-style">
-      
-      In the context of deep learning, the availability of large amounts of training data can play a critical role in a model's performance. Transfer learning has shown to be a powerful method in which models are first pre-trained for a task where abundant …
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/cmmr19/">Ensemble size classification in Colombian Andean string music recordings</a></h2>
-    <div class="article-style">
-      
-      Reliable methods for automatic retrieval of semantic information from large digital music archives can play a critical role in musicological research and musical heritage preservation. With the advancement of machine learning techniques, new …
-      
-    </div>
-  </div>
-  
-
-  
-
-</div>
 
       
 

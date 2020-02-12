@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ensemble size classification on ACMus</title>
+    <title>Ensemble Size classification on ACMus</title>
     <link>https://acmus-mir.github.io/tags/ensemble-size-classification/</link>
-    <description>Recent content in Ensemble size classification on ACMus</description>
+    <description>Recent content in Ensemble Size classification on ACMus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 19:34:03 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://acmus-mir.github.io/tags/ensemble-size-classification/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analyzing the potential of pre-trained embeddings for audio classification tasks</title>
+      <link>https://acmus-mir.github.io/publication/embeddings20/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmus-mir.github.io/publication/embeddings20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ensemble size classification in Colombian Andean string music recordings</title>

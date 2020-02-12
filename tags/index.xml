@@ -6,24 +6,24 @@
     <description>Recent content in Tags on ACMus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 19:34:03 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://acmus-mir.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Colombian Music</title>
-      <link>https://acmus-mir.github.io/tags/colombian-music/</link>
-      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      <title>Deep learning</title>
+      <link>https://acmus-mir.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://acmus-mir.github.io/tags/colombian-music/</guid>
+      <guid>https://acmus-mir.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ensemble size classification</title>
+      <title>Ensemble Size classification</title>
       <link>https://acmus-mir.github.io/tags/ensemble-size-classification/</link>
-      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://acmus-mir.github.io/tags/ensemble-size-classification/</guid>
       <description></description>
@@ -32,9 +32,18 @@
     <item>
       <title>Speech-music discrimination</title>
       <link>https://acmus-mir.github.io/tags/speech-music-discrimination/</link>
-      <pubDate>Thu, 01 Aug 2019 19:28:09 +0800</pubDate>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://acmus-mir.github.io/tags/speech-music-discrimination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colombian Music</title>
+      <link>https://acmus-mir.github.io/tags/colombian-music/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      
+      <guid>https://acmus-mir.github.io/tags/colombian-music/</guid>
       <description></description>
     </item>
     
