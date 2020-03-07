@@ -203,6 +203,10 @@
   </url>
   
   <url>
+    <loc>https://acmus-mir.github.io/embeddings-20/</loc>
+  </url>
+  
+  <url>
     <loc>https://acmus-mir.github.io/categories/</loc>
     <priority>0</priority>
   </url>

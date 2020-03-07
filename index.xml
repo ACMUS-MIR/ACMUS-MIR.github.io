@@ -17,7 +17,15 @@
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://acmus-mir.github.io/publication/embeddings20/</guid>
-      <description></description>
+      <description>&lt;p&gt;Detailed results can be found in &lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. For specific sections see below:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/#detailed&#34; target=&#34;_blank&#34;&gt;Detailed classification results&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/#tables&#34; target=&#34;_blank&#34;&gt;Detailed results tables&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/#matrices&#34; target=&#34;_blank&#34;&gt;Confusion matrices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/#baseline&#34; target=&#34;_blank&#34;&gt;Baseline models&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -75,6 +83,15 @@ Additionally, we aim to characterize in more detail the melodic and prosodic ele
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://acmus-mir.github.io/andes-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://acmus-mir.github.io/embeddings-20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmus-mir.github.io/embeddings-20/</guid>
       <description></description>
     </item>
     
