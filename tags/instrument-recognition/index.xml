@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christian Kehling on ACMus</title>
-    <link>https://acmus-mir.github.io/authors/christian-kehling/</link>
-    <description>Recent content in Christian Kehling on ACMus</description>
+    <title>Instrument recognition on ACMus</title>
+    <link>https://acmus-mir.github.io/tags/instrument-recognition/</link>
+    <description>Recent content in Instrument recognition on ACMus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://acmus-mir.github.io/authors/christian-kehling/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://acmus-mir.github.io/tags/instrument-recognition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,15 +26,6 @@
 &lt;li&gt;&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/#baseline&#34; target=&#34;_blank&#34;&gt;Baseline models&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>ACMUS - Advancing Computational Musicology: Semi-supervised and Unsupervised Segmentation and Annotation of Musical Collections</title>
-      <link>https://acmus-mir.github.io/publication/acmus19/</link>
-      <pubDate>Fri, 01 Nov 2019 19:28:09 +0800</pubDate>
-      
-      <guid>https://acmus-mir.github.io/publication/acmus19/</guid>
-      <description></description>
     </item>
     
   </channel>

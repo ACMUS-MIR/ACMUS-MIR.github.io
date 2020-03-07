@@ -21,11 +21,20 @@
     </item>
     
     <item>
-      <title>Ensemble Size classification</title>
+      <title>Ensemble size classification</title>
       <link>https://acmus-mir.github.io/tags/ensemble-size-classification/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://acmus-mir.github.io/tags/ensemble-size-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instrument recognition</title>
+      <link>https://acmus-mir.github.io/tags/instrument-recognition/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmus-mir.github.io/tags/instrument-recognition/</guid>
       <description></description>
     </item>
     
@@ -41,7 +50,7 @@
     <item>
       <title>Colombian Music</title>
       <link>https://acmus-mir.github.io/tags/colombian-music/</link>
-      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      <pubDate>Fri, 01 Nov 2019 19:28:09 +0800</pubDate>
       
       <guid>https://acmus-mir.github.io/tags/colombian-music/</guid>
       <description></description>
@@ -50,9 +59,18 @@
     <item>
       <title>Computational Musicology</title>
       <link>https://acmus-mir.github.io/tags/computational-musicology/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 19:28:09 +0800</pubDate>
       
       <guid>https://acmus-mir.github.io/tags/computational-musicology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISMIR-lbd</title>
+      <link>https://acmus-mir.github.io/tags/ismir-lbd/</link>
+      <pubDate>Fri, 01 Nov 2019 19:28:09 +0800</pubDate>
+      
+      <guid>https://acmus-mir.github.io/tags/ismir-lbd/</guid>
       <description></description>
     </item>
     

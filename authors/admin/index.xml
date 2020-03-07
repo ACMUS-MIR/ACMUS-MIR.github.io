@@ -22,6 +22,8 @@
 1. Emphasis on semi-supervised and unsupervised machine learning techniques that minimally rely on the availability of annotated data for a specific task.&lt;br /&gt;
 2. Traditional &lt;a href=&#34;https://acmus-mir.github.io/andes-music/&#34; target=&#34;_blank&#34;&gt;Colombian music&lt;/a&gt; from the Andes region as the main focus of our study.&lt;/p&gt;
 
+&lt;p&gt;If you wish to cite our project, please use this &lt;a href=&#34;./publication/acmus19/cite.bib&#34;&gt;citation&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&#34;https://acmus-mir.github.io/img/dfg.png&#34; alt=&#34;DFG&#34; /&gt;&lt;/p&gt;
 </description>
     </item>

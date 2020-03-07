@@ -6,10 +6,19 @@
     <description>Recent content in Computational Musicology on ACMus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 19:28:09 +0800</lastBuildDate>
     
 	    <atom:link href="https://acmus-mir.github.io/tags/computational-musicology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ACMUS - Advancing Computational Musicology: Semi-supervised and Unsupervised Segmentation and Annotation of Musical Collections</title>
+      <link>https://acmus-mir.github.io/publication/acmus19/</link>
+      <pubDate>Fri, 01 Nov 2019 19:28:09 +0800</pubDate>
+      
+      <guid>https://acmus-mir.github.io/publication/acmus19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Speech music classification</title>

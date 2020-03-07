@@ -6,10 +6,19 @@
     <description>Recent content in Antonio Escamilla on ACMus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 19:28:09 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 19:28:09 +0800</lastBuildDate>
     
 	    <atom:link href="https://acmus-mir.github.io/authors/antonio-escamilla/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ACMUS - Advancing Computational Musicology: Semi-supervised and Unsupervised Segmentation and Annotation of Musical Collections</title>
+      <link>https://acmus-mir.github.io/publication/acmus19/</link>
+      <pubDate>Fri, 01 Nov 2019 19:28:09 +0800</pubDate>
+      
+      <guid>https://acmus-mir.github.io/publication/acmus19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Singing Voice, Speech, or Something in Between</title>
