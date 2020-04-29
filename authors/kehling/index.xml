@@ -10,5 +10,25 @@
 	    <atom:link href="https://acmus-mir.github.io/authors/kehling/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://acmus-mir.github.io/authors/kehling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acmus-mir.github.io/authors/kehling/</guid>
+      <description>&lt;p&gt;Always being amazed by the world of media Christian early discovered a passion for music. His youth was guided by music with first steps in sound engineering, mixing and playing instruments. As a curious person with a penchant for technology, he also wanted to understand the underlying principles of sound, its creation and effects on the listener.
+Christian found studies where all worlds came together and graduated with his engineering diploma in media technology in 2013. This award-winning diploma thesis has already been a co-operational research task at the university of technology Ilmenau and the Fraunhofer Institute of Media Technology. From there he worked in different industries like DCI, electro-mobility and medical healthcare before returning into the research sector again in 2019.
+Currently Christian is a research scientist as well a PhD student at University of Ilmenau and Fraunhofer IDMT.&lt;/p&gt;
+
+&lt;p&gt;My research interests include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Music Information Retrieval&lt;/li&gt;
+&lt;li&gt;Musicology&lt;/li&gt;
+&lt;li&gt;Automatic Speech Recognition&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
