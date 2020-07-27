@@ -57,6 +57,14 @@
     </item>
     
     <item>
+      <title>Sesquialtera in the Colombian Bambuco: Perception and Estimation of Beat and Meter</title>
+      <link>https://acmus-mir.github.io/publication/ismir2020/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      <guid>https://acmus-mir.github.io/publication/ismir2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Singing Voice, Speech, or Something in Between</title>
       <link>https://acmus-mir.github.io/publication/dagstuhl19/</link>
       <pubDate>Thu, 01 Aug 2019 19:28:09 +0800</pubDate>
@@ -71,7 +79,8 @@
       <guid>https://acmus-mir.github.io/project/speechmusic/</guid>
       <description>&lt;p&gt;We aim to develop methods to distinguish speech data from music data, and further provide fine-grained classification labels such as instrumental music or vocal music.
 Additionally, we aim to characterize in more detail the melodic and prosodic elements of a number of vocal expressions found in certain regions of Colombia.&lt;/p&gt;
-&lt;p&gt;For more information please contact [Christian Kehling] (https://acmus-mir.github.io/authors/kehling/).&lt;/p&gt;
+&lt;p&gt;For more information please contact 
+&lt;a href=&#34;https://acmus-mir.github.io/authors/kehling/&#34;&gt;Christian Kehling&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -107,7 +116,8 @@ Additionally, we aim to characterize in more detail the melodic and prosodic ele
       <description>&lt;p&gt;We aim to develop methods capable of automatically detecting the number of instruments playing in a given audio track/segment.
 In this task,  we will  not only consider ensembles of instruments with very distinct characteristics (e.g. voice, guitar, percussion)
 but also ensembles of instruments with very similar spectral characteristics (e.g. string instruments such as guitar, tiple, bandola)&lt;/p&gt;
-&lt;p&gt;For more information please contact [Sascha Grollmisch] (https://acmus-mir.github.io/authors/goh/).&lt;/p&gt;
+&lt;p&gt;For more information please contact 
+&lt;a href=&#34;https://acmus-mir.github.io/authors/goh/&#34;&gt;Sascha Grollmisch&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -118,7 +128,8 @@ but also ensembles of instruments with very similar spectral characteristics (e.
       <guid>https://acmus-mir.github.io/project/meterextraction/</guid>
       <description>&lt;p&gt;We aim to develop methods for automatic classification of simple and compound meters in music. This task is particularly challenging in some music traditions where both duple and triple rhythms are combined. This practice, known  as sesquialtera, leads to the combination of 3/4 and 6/8 rhythmic patterns. Sesquialteras are common in  Colombian Bambucos, a music genre from the 
 &lt;a href=&#34;https://acmus-mir.github.io/andes-music/&#34;&gt;Andes region in Colombia&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;For more information please contact [José Zapata] (https://acmus-mir.github.io/authors/zapata/).&lt;/p&gt;
+&lt;p&gt;For more information please contact 
+&lt;a href=&#34;https://acmus-mir.github.io/authors/zapata/&#34;&gt;José Zapata&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -129,7 +140,8 @@ but also ensembles of instruments with very similar spectral characteristics (e.
       <guid>https://acmus-mir.github.io/project/scale/</guid>
       <description>&lt;p&gt;We aim to develop methods for scale and mode identification with special focus on music from the Colombian Andes.
 As part of this work, we will analyse musical traditions such as the Colombian Caucan flutes, which show tone/semitone distributions that fall outside of equal temperament.&lt;/p&gt;
-&lt;p&gt;For more information please contact [Estefanía Cano] (https://acmus-mir.github.io/authors/cano/).&lt;/p&gt;
+&lt;p&gt;For more information please contact 
+&lt;a href=&#34;https://acmus-mir.github.io/authors/cano/&#34;&gt;Estefanía Cano&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
