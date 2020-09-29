@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Mora-Ángel | ACMus</title>
+    <link>https://acmus-mir.github.io/authors/fernando-mora-angel/</link>
+      <atom:link href="https://acmus-mir.github.io/authors/fernando-mora-angel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernando Mora-Ángel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 19:34:03 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Fernando Mora-Ángel</title>
+      <link>https://acmus-mir.github.io/authors/fernando-mora-angel/</link>
+    </image>
+    
+    <item>
+      <title>Sesquialtera in the Colombian Bambuco: Perception and Estimation of Beat and Meter</title>
+      <link>https://acmus-mir.github.io/publication/ismir2020/</link>
+      <pubDate>Sat, 01 Aug 2020 19:34:03 +0800</pubDate>
+      <guid>https://acmus-mir.github.io/publication/ismir2020/</guid>
+      <description>&lt;p&gt;Additional information available&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://acmus-mir.github.io/ismir-20/#bambucos&#34;&gt;Bambucos&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://acmus-mir.github.io/ismir-20/#surveys&#34;&gt;Surveys&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACMUS-MIR: An annotated data set of Andean Colombian music</title>
+      <link>https://acmus-mir.github.io/publication/acmus-mir19/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      <guid>https://acmus-mir.github.io/publication/acmus-mir19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble size classification in Colombian Andean string music recordings</title>
+      <link>https://acmus-mir.github.io/publication/cmmr19/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      <guid>https://acmus-mir.github.io/publication/cmmr19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singing Voice, Speech, or Something in Between</title>
+      <link>https://acmus-mir.github.io/publication/dagstuhl19/</link>
+      <pubDate>Thu, 01 Aug 2019 19:28:09 +0800</pubDate>
+      <guid>https://acmus-mir.github.io/publication/dagstuhl19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

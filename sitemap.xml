@@ -3,22 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://acmus-mir.github.io/publication_types/1/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/antonio-escamilla/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/tags/computational-musicology/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/estefania-cano/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/fernando-mora-angel/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/gustavo-lopez-gil/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/jose-r.-zapata/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/juan-fernando-alzate-londono/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/authors/moises-betancur-pelaez/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/publication_types/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/publication/ismir2020/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/tags/</loc>
+    <lastmod>2020-08-01T19:34:03+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://acmus-mir.github.io/publication_types/3/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acmus-mir.github.io/publication/embeddings20/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,22 +98,12 @@
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/authors/estefan%C3%ADa-cano/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acmus-mir.github.io/tags/instrument-recognition/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://acmus-mir.github.io/authors/michael-taenzer/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/publication_types/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,22 +118,7 @@
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/tags/</loc>
-    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/publication_types/1/</loc>
-    <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://acmus-mir.github.io/publication/acmus19/</loc>
-    <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/antonio-escamilla/</loc>
     <lastmod>2019-11-01T19:28:09+08:00</lastmod>
   </url>
   
@@ -93,17 +128,7 @@
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/tags/computational-musicology/</loc>
-    <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/fernando-mora-%C3%A1gnel/</loc>
-    <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/gustavo-l%C3%B3pez-gil/</loc>
+    <loc>https://acmus-mir.github.io/authors/fernando-mora-agnel/</loc>
     <lastmod>2019-11-01T19:28:09+08:00</lastmod>
   </url>
   
@@ -113,7 +138,7 @@
   </url>
   
   <url>
-    <loc>https://acmus-mir.github.io/authors/jos%C3%A9-ricardo-zapata/</loc>
+    <loc>https://acmus-mir.github.io/authors/jose-ricardo-zapata/</loc>
     <lastmod>2019-11-01T19:28:09+08:00</lastmod>
   </url>
   
@@ -124,31 +149,6 @@
   
   <url>
     <loc>https://acmus-mir.github.io/publication/cmmr19/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/fernando-mora-%C3%A1ngel/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/jos%C3%A9-r.-zapata/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/juan-fernando-alzate-londo%C3%B1o/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/mois%C3%A9s-betancur-pel%C3%A1ez/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/publication/ismir2020/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
   </url>
   
@@ -223,6 +223,10 @@
   
   <url>
     <loc>https://acmus-mir.github.io/embeddings-20/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acmus-mir.github.io/ismir-20/</loc>
   </url>
   
   <url>
