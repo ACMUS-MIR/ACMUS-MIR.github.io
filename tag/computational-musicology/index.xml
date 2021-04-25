@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Musicology | ACMus</title>
+    <link>https://acmus-mir.github.io/tag/computational-musicology/</link>
+      <atom:link href="https://acmus-mir.github.io/tag/computational-musicology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Musicology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 19:34:03 +0800</lastBuildDate>
+    <image>
+      <url>https://acmus-mir.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational Musicology</title>
+      <link>https://acmus-mir.github.io/tag/computational-musicology/</link>
+    </image>
+    
+    <item>
+      <title>Sesquialtera in the Colombian Bambuco: Perception and Estimation of Beat and Meter</title>
+      <link>https://acmus-mir.github.io/publication/ismir2020/</link>
+      <pubDate>Sat, 01 Aug 2020 19:34:03 +0800</pubDate>
+      <guid>https://acmus-mir.github.io/publication/ismir2020/</guid>
+      <description>&lt;p&gt;📢 This publication  received the &amp;ldquo;Best New Direction&amp;rdquo; award granted by the Scientific Committee of ISMIR2020. See detailes &lt;a href=&#34;https://www.ismir2020.net/awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Additional information available&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://acmus-mir.github.io/ismir-20/#bambucos&#34;&gt;Bambucos&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://acmus-mir.github.io/ismir-20/#surveys&#34;&gt;Surveys&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACMUS - Advancing Computational Musicology: Semi-supervised and Unsupervised Segmentation and Annotation of Musical Collections</title>
+      <link>https://acmus-mir.github.io/publication/acmus19/</link>
+      <pubDate>Fri, 01 Nov 2019 19:28:09 +0800</pubDate>
+      <guid>https://acmus-mir.github.io/publication/acmus19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech music classification</title>
+      <link>https://acmus-mir.github.io/project/speechmusic/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://acmus-mir.github.io/project/speechmusic/</guid>
+      <description>&lt;p&gt;We aim to develop methods to distinguish speech data from music data, and further provide fine-grained classification labels such as instrumental music or vocal music.
+Additionally, we aim to characterize in more detail the melodic and prosodic elements of a number of vocal expressions found in certain regions of Colombia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ensemble Size Classification</title>
+      <link>https://acmus-mir.github.io/project/ensemblesize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acmus-mir.github.io/project/ensemblesize/</guid>
+      <description>&lt;p&gt;We aim to develop methods capable of automatically detecting the number of instruments playing in a given audio track/segment.
+In this task,  we will  not only consider ensembles of instruments with very distinct characteristics (e.g. voice, guitar, percussion)
+but also ensembles of instruments with very similar spectral characteristics (e.g. string instruments such as guitar, tiple, bandola)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meter Extraction</title>
+      <link>https://acmus-mir.github.io/project/meterextraction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acmus-mir.github.io/project/meterextraction/</guid>
+      <description>&lt;p&gt;We aim to develop methods for automatic classification of simple and compound meters in music. This task is particularly challenging in some music traditions where both duple and triple rhythms are combined. This practice, known  as sesquialtera, leads to the combination of 3/4 and 6/8 rhythmic patterns. Sesquialteras are common in  Colombian Bambucos, a music genre from the &lt;a href=&#34;https://acmus-mir.github.io/andes-music/&#34;&gt;Andes region in Colombia&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Music Scale Detection</title>
+      <link>https://acmus-mir.github.io/project/scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acmus-mir.github.io/project/scale/</guid>
+      <description>&lt;p&gt;We aim to develop methods for scale and mode identification with special focus on music from the Colombian Andes.
+As part of this work, we will analyse musical traditions such as the Colombian Caucan flutes, which show tone/semitone distributions that fall outside of equal temperament.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

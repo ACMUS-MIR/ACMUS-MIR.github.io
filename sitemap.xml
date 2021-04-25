@@ -1,251 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://acmus-mir.github.io/publication_types/1/</loc>
+    <loc>https://acmus-mir.github.io/publication-type/1/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/antonio-escamilla/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/antonio-escamilla/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/authors/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/computational-musicology/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/tag/computational-musicology/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/estefania-cano/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/estefania-cano/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/fernando-mora-angel/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/fernando-mora-angel/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/gustavo-lopez-gil/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/gustavo-lopez-gil/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/jose-r.-zapata/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/jose-r.-zapata/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/juan-fernando-alzate-londono/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/juan-fernando-alzate-londono/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/moises-betancur-pelaez/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/moises-betancur-pelaez/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/publication_types/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/publication/ismir2020/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/tags/</loc>
     <lastmod>2020-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/publication/embeddings20/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/christian-kehling/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/christian-kehling/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/deep-learning/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/tag/deep-learning/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/ensemble-size-classification/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/tag/ensemble-size-classification/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/instrument-recognition/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/tag/instrument-recognition/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/michael-taenzer/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/michael-taenzer/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/sascha-grollmisch/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/sascha-grollmisch/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/speech-music-discrimination/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/tag/speech-music-discrimination/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/publication/acmus19/</loc>
     <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/colombian-music/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/tag/colombian-music/</loc>
     <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/fernando-mora-agnel/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/fernando-mora-agnel/</loc>
     <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/tags/ismir-lbd/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/tag/ismir-lbd/</loc>
     <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/jose-ricardo-zapata/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/jose-ricardo-zapata/</loc>
     <lastmod>2019-11-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/publication/acmus-mir19/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/publication/cmmr19/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/publication_types/4/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/publication-type/4/</loc>
     <lastmod>2019-08-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/publication/dagstuhl19/</loc>
     <lastmod>2019-08-01T19:28:09+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/project/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/project/speechmusic/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/publication/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/acmus-mir/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://acmus-mir.github.io/admin/</loc>
+  </url><url>
     <loc>https://acmus-mir.github.io/andes-music/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/bdg/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/cano/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/escamilla/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/goh/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/kehling/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/lopez/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/mora/</loc>
-  </url>
-  
-  <url>
-    <loc>https://acmus-mir.github.io/authors/zapata/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/</loc>
+  </url><url>
     <loc>https://acmus-mir.github.io/embeddings-20/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/ismir-20/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/antonio-escamilla/</loc>
+  </url><url>
     <loc>https://acmus-mir.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/christian-kehling/</loc>
+  </url><url>
     <loc>https://acmus-mir.github.io/project/ensemblesize/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/estefania-cano/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/fernando-mora-angel/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/gustavo-lopez-gil/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/jose-r.-zapata/</loc>
+  </url><url>
     <loc>https://acmus-mir.github.io/project/meterextraction/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/project/scale/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://acmus-mir.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/prof.-karlheinz-brandenburg/</loc>
+  </url><url>
     <loc>https://acmus-mir.github.io/talk/</loc>
+  </url><url>
+    <loc>https://acmus-mir.github.io/author/sascha-grollmisch/</loc>
   </url>
-  
 </urlset>
