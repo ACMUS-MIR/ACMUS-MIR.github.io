@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acmus-logs | ACMus</title>
+    <link>https://acmus-mir.github.io/acmus-log/</link>
+      <atom:link href="https://acmus-mir.github.io/acmus-log/index.xml" rel="self" type="application/rss+xml" />
+    <description>Acmus-logs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://acmus-mir.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Acmus-logs</title>
+      <link>https://acmus-mir.github.io/acmus-log/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing the potential of pre-trained embeddings for audio classification tasks</title>
+      <link>https://acmus-mir.github.io/acmus-log/v11/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://acmus-mir.github.io/acmus-log/v11/</guid>
+      <description>&lt;p&gt;The ACMUS-MIR V1.1 is a selection of music taken from the Músicas Regionales Archive in Medellin, Colombia.
+The data set  contains a total of &lt;b&gt;419 segments&lt;/b&gt; of annotated music. The data set was compiled to support the development of computational methods for three main tasks: 
+&lt;img src=&#34;https://acmus-mir.github.io/img/acmus-mir.png&#34; alt=&#34;[ACMUS-MIR data set]&#34; height=&#34;400&#34; width=&#34;400&#34; &gt;&lt;/p&gt;
+&lt;p&gt;The dataset has been published as a Zenodo repository &lt;a href=&#34;https://zenodo.org/record/3965447&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you wish to use ACMUS_MIR V1.1, please use this &lt;a href=&#34;../citev11.bib&#34;&gt;citation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>V1.0</title>
+      <link>https://acmus-mir.github.io/acmus-log/v10/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://acmus-mir.github.io/acmus-log/v10/</guid>
+      <description>&lt;p&gt;The ACMUS-MIR V1.0 is a selection of music taken from the Músicas Regionales Archive in Medellin, Colombia.
+The data set  contains a total of &lt;b&gt;337 segments&lt;/b&gt; of annotated music. The data set was compiled to support the development of computational methods for three main tasks:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://acmus-mir.github.io/img/acmus-mir.png&#34; alt=&#34;[ACMUS-MIR data set]&#34; height=&#34;400&#34; width=&#34;400&#34; &gt;&lt;/p&gt;
+&lt;p&gt;The dataset has been published as a Zenodo repository &lt;a href=&#34;https://zenodo.org/record/3268961#.XShkTo8RVPZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you wish to use ACMUS_MIR V1.0, please use this &lt;a href=&#34;../citev10.bib&#34;&gt;citation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
